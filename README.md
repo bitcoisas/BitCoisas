@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Founder and content creator of BitCoisas
+  Founder and content creator at BitCoisas
 </p>
 
 <p align='center'>
