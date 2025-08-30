@@ -17,7 +17,7 @@
   <a href="https://x.com/BitCoisas">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@bit.coisas">
+  <a href="https://www.youtube.com/@CanalBitCoisas">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
