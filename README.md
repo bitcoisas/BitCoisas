@@ -28,5 +28,5 @@
 </p>
 
 <p align='center'>
-  🔗 Links: <a href='https://bitcoisas.github.io/'>https://bitcoisas.github.io/</a>
+  🔗 Links: <a href='https://linktr.ee/bitcoisas/'>https://linktr.ee/bitcoisas/</a>
 </p>
