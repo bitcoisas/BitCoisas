@@ -20,13 +20,3 @@
   <a href="https://www.youtube.com/@CanalBitCoisas">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-</p>
-
-<p align='center'>
-  🦆 Nostr: <a href='https://njump.me/npub1mx3sgxc250xl8d6tkwksg0dg5sx2zjwgjxeqfxef7drt0y39yxxqe2raya'>npub1mx3sgxc250xl8d6tkwksg0dg5sx2zjwgjxeqfxef7drt0y39yxxqe2raya</a>
-</p>
-
-<p align='center'>
-  🔗 Links: <a href='https://linktr.ee/bitcoisas/'>https://linktr.ee/bitcoisas/</a>
-</p>
