@@ -1,1 +1,3 @@
-Bitcoin educator | Community Manager @Casa21 (Vinteum) | Marketing @Satsconf | Building on Bitcoin
+fix the money fix the world
+---
+```Bitcoin educator | Community Manager @Casa21 | Marketing @Satsconf | Building on Bitcoin```
